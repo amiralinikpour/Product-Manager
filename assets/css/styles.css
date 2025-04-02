@@ -14,7 +14,7 @@ body {
 /* The header */
 header {
   width: 100%;
-  background-color: #DAFBF8;
+  background-color: #7B86E2;
   padding: 2%;
   box-sizing: border-box;
   border-bottom: 1px solid #d2d2d7;
@@ -57,7 +57,7 @@ nav {
 .nav-links li a {
   text-decoration: none;
   font-size: 100%;
-  color: #7B68E2;
+  color: #DAFBF8;
   transition: color 0.3s ease, background-color 0.3s ease;
   white-space: nowrap; 
   padding: 0.5em 1em;
