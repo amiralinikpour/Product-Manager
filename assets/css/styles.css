@@ -78,8 +78,8 @@ nav {
 .dropdown-content {
   display: none;
   position: absolute;
-  background-color: #fff;
-  border: 1px solid #DAEDFB;
+  background-color: #DAEDFB;
+  border: 1px solid #ccc;
   box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
   top: 100%;
   left: 0;
