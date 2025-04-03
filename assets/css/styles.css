@@ -31,9 +31,9 @@ header {
   color: #FFFFFF;
   position: relative; 
 }
-.header-title-container img {
+.header-title img {
   margin-right: 15px;
-  width: 20%;
+  width: 30%;
 }
 
 .header-title-container {
