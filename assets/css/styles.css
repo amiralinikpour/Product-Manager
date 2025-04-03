@@ -31,6 +31,10 @@ header {
   color: #FFFFFF;
   position: relative; 
 }
+.header-title-container img {
+  margin-right: 15px;
+  width: 20%;
+}
 
 .header-title-container {
   display: flex;
