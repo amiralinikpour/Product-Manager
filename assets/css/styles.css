@@ -23,6 +23,20 @@ header {
   align-items: center;
 }
 
+.header-title-container {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  padding: 10px 20px;
+}
+
+.logo {
+  width: 6%; 
+  min-width: 50px;
+  max-width: 80px;
+  height: auto;
+}
+
 .header-title {
   font-size: 200%;
   margin: 1% 0;
