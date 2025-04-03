@@ -30,7 +30,12 @@ header {
   font-weight: 600;
   color: #FFFFFF;
   position: relative;
-  margin-left: 0
+  margin-left: 0 
+}
+
+.header-title-container {
+  display: flex;
+  align-items: center;
 }
 
 /* The menu */
