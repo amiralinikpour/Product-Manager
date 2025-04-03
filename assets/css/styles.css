@@ -31,16 +31,6 @@ header {
   color: #FFFFFF;
   position: relative; 
 }
-.header-title-container img {
-  margin-right: 15px;
-  width: 20%;
-  float: left;
-}
-
-.header-title-container {
-  display: flex;
-  align-items: center;
-}
 
 /* The menu */
 nav {
