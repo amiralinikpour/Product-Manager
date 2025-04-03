@@ -33,7 +33,8 @@ header {
 }
 .header-title img {
   margin-right: 15px;
-  width: 30%;
+  width: 20%;
+  float: left;
 }
 
 .header-title-container {
